@@ -1,4 +1,4 @@
-name: "SWD Deployment final"
+name: "SWD Deployment Final"
 
 on:
     push:
